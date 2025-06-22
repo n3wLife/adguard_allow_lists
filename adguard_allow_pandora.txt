@@ -1,0 +1,17 @@
+[Adblock Plus 2.0]
+! Version: 202506211633
+! Title: Pandora AD Networks Allow List
+! Last modified: 21 Jun 2025 16:33 PST
+! *** n3wlife:template_header.txt ***
+
+! Homepage: https://blog.n3wlife.com
+! GitHub issues: https://github.com/n3wlife/adguard_allow_lists/issues
+! GitHub pull requests: https://github.com/n3wlife/adguard_allow_lists/pulls
+! 
+! -----------------------Allow Pandora AD Networks to remove long silences-----------------------!
+! *** n3wlife:allow_lists/adguard_allow_pandora.txt ***
+@@||https://pandora.com^$document
+@@||https://p-cdn.us^$document
+@@||https://p-cdn.com^$document
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js
+@@||delivery-cdn-cf.adswizz.com^$important
