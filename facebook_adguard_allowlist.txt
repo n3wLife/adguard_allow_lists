@@ -1,0 +1,108 @@
+# Facebook AdGuard Allow List
+# This list allows Facebook services and ads to work when AdGuard is enabled
+# Add these domains to your AdGuard allow list / whitelist
+
+# Core Facebook Domains
+@@||facebook.com^
+@@||www.facebook.com^
+@@||m.facebook.com^
+@@||mobile.facebook.com^
+@@||touch.facebook.com^
+@@||web.facebook.com^
+@@||business.facebook.com^
+@@||developers.facebook.com^
+
+# Facebook CDN and Static Content
+@@||static.xx.fbcdn.net^
+@@||scontent.xx.fbcdn.net^
+@@||external.xx.fbcdn.net^
+@@||lookaside.fbsbx.com^
+@@||fbcdn.net^
+@@||static.fbcdn.net^
+@@||scontent.fbcdn.net^
+@@||external.fbcdn.net^
+
+# Facebook API and Services
+@@||graph.facebook.com^
+@@||api.facebook.com^
+@@||connect.facebook.net^
+@@||apps.facebook.com^
+@@||secure.facebook.com^
+
+# Facebook Analytics and Pixel
+@@||facebook.com/tr^
+@@||www.facebook.com/tr^
+@@||analytics.facebook.com^
+@@||pixel.facebook.com^
+
+# Facebook Ads and Business Manager
+@@||business.facebook.com^
+@@||adsmanager.facebook.com^
+@@||www.facebook.com/business^
+@@||facebook.com/business^
+
+# Facebook Login and Authentication
+@@||login.facebook.com^
+@@||m.facebook.com/login^
+@@||www.facebook.com/login^
+
+# Facebook Messenger
+@@||messenger.com^
+@@||www.messenger.com^
+@@||m.messenger.com^
+
+# Instagram (owned by Facebook/Meta)
+@@||instagram.com^
+@@||www.instagram.com^
+@@||m.instagram.com^
+@@||api.instagram.com^
+@@||graph.instagram.com^
+@@||scontent.cdninstagram.com^
+@@||instagram.frix1-1.fna.fbcdn.net^
+
+# WhatsApp (owned by Facebook/Meta)
+@@||whatsapp.com^
+@@||www.whatsapp.com^
+@@||web.whatsapp.com^
+@@||static.whatsapp.net^
+
+# Meta/Facebook Workplace
+@@||workplace.com^
+@@||work.workplace.com^
+@@||www.workplace.com^
+
+# Facebook Video and Media
+@@||video.xx.fbcdn.net^
+@@||z-m-static.xx.fbcdn.net^
+@@||z-m-scontent.xx.fbcdn.net^
+
+# Facebook Gaming
+@@||fb.gg^
+@@||www.facebook.com/gaming^
+@@||gaming.facebook.com^
+
+# Facebook Events and Pages
+@@||www.facebook.com/events^
+@@||www.facebook.com/pages^
+
+# Facebook Marketplace
+@@||www.facebook.com/marketplace^
+
+# Additional Facebook Subdomains
+@@||edge-chat.facebook.com^
+@@||rupload.facebook.com^
+@@||upload.facebook.com^
+@@||b-api.facebook.com^
+@@||b-graph.facebook.com^
+
+# Facebook Regional Domains (examples)
+@@||facebook.co.uk^
+@@||facebook.ca^
+@@||facebook.com.au^
+@@||facebook.de^
+@@||facebook.fr^
+
+# Meta Brand Domains
+@@||meta.com^
+@@||www.meta.com^
+@@||about.meta.com^
