@@ -1,0 +1,19 @@
+[Adblock Plus 2.0]
+! Version: 2025122425
+! Title: Amazon Alexa Networks Allow List
+! Last modified: 21 Jun 2025 16:57 PST
+! *** n3wlife:template_header.txt ***
+
+! Homepage: https://blog.n3wlife.com
+! GitHub issues: https://github.com/n3wlife/adguard_allow_lists/issues
+! GitHub pull requests: https://github.com/n3wlife/adguard_allow_lists/pulls
+! 
+! -----------------------Allow Plex AD Networks to ensure free media playback-----------------------!
+! *** n3wlife:adguard_allow_lists/adguard_allow_alexa.txt ***
+! ----------------------- Core Alexa domains -----------------------!
+@@||avs-alexa-14-na.amazon.com^$important
+@@||device-metrics-us.amazon.com^$important
+@@||dp-gw-na.amazon.com^$important
+@@||device-metrics-us-2.amazon.com^$important
+@@||kinesis.us-east-1.amazonaws.com^$important
+@@||alexa.na.gateway.devices.a2z.com^$important
