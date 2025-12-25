@@ -17,3 +17,5 @@
 @@||device-metrics-us-2.amazon.com^$important
 @@||kinesis.us-east-1.amazonaws.com^$important
 @@||alexa.na.gateway.devices.a2z.com^$important
+@@||avs-alexa-12-na.amazon.com^$important
+@@||det-ta-g7g.amazon.com^$important
