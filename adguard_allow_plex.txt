@@ -48,6 +48,7 @@
 @@||themoviedb.com
 @@||chtbl.com
 @@||gravatar.com
+@@||opensubtitles.org
 @@||services.sonarr.tv
 @@||skyhook.sonarr.tv
 @@||download.sonarr.tv
