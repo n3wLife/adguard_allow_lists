@@ -41,6 +41,8 @@
 @@||cdn2.videobyte.com
 @@||cds.b5g9b8e4.hwcdn.net
 @@||vid.springserve.com
+@@||pubads.g.doubleclick.net
+@@||securepubads.g.doubleclick.net
 ! ----------------------- Ad-serving & streaming video domains -----------------------!
 @@||thetvdb.com
 @@||themoviedb.com
